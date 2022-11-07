@@ -1,0 +1,2 @@
+cheerio is an implementation of jquery that works on a virtual dom
+The Dom is built from an html string without running any javascript or applying css styles. Since its not displaying anything, this makes it a great way to scrape data on a server, or if you're creating a service hosted by a cloud provider, you can run it in a serverless function.
